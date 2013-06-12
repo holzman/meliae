@@ -3,3 +3,6 @@
 ./meliae/_loader.c
 ./meliae/_scanner.c
 ./tags
+
+# Keep empty directories:
+# Keep empty directories: >> .gitignore/.git*
